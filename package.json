@@ -1,0 +1,22 @@
+{
+  "name": "assert-logs",
+  "description": "Assert module appended new features.",
+  "keywords": [
+    "assert",
+    "logs"
+  ],
+  "version": "0.0.0",
+  "main": "./assert.js",
+  "license": "MIT",
+  "_npmUser": {
+    "name": "susanna",
+    "email": "susanna.hayrapetyan1@gmail.com"
+  },
+  "maintainers": [
+    "susanna <susanna.hayrapetyan1@gmail.com>"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Susanna"
+}
